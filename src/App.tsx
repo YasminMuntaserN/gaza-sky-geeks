@@ -1,6 +1,5 @@
 import React from "react";
 import { Routes, Route, Navigate } from "react-router-dom";
-import { ThemeProvider } from "./contexts/ThemeProvider";
 import CharactersPage from "./pages/CharactersPage";
 import CharacterDetailsPage from "./pages/CharacterDetailsPage";
 
